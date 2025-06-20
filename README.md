@@ -1,13 +1,13 @@
 # Optimizing eCommerce Website Performance: SQL Analysis for The Vault Toy Store
 
-# Project Preview
+## Project Preview
 In this project, we are analyzing the e-commerce website of The Vault toy store. As a Database Analyst, we need to work closely with
 The CEO, Head of Marketing, and Website Manager to optimize the marketing channel, monitor the website performance, and assess the impact of the product launch.
 
-# Entity Relationship Diagram (ERD)
+## Entity Relationship Diagram (ERD)
 ![image](https://github.com/user-attachments/assets/ed99d05c-8a33-49fb-8c6d-7efbe1159331)
 
-# Objectives
+## Objectives
 ▪️Traffic Source Analysis: To assess and optimize marketing channels by analyzing the traffic source using UTM parameters to identify where your customers are
 coming from, and which channels are driving the highest quality traffic.
 
@@ -24,4 +24,4 @@ and optimize bids based on performance.
 
 ▪️Repeat Behavior Analysis: Repeat visits help us understand user behavior and identify some of our most valuable customers.
 
-## Business Problems and Solution
+# Business Problems and Solutions
