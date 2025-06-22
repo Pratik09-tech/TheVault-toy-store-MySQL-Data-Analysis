@@ -24,12 +24,12 @@ and optimize bids based on performance.
 
 ▪️Repeat Behavior Analysis: Repeat visits help us understand user behavior and identify some of our most valuable customers.
 
-## Business Problems and Solutions
+# Business Problems and Solutions
 
 
-### Analyzing Website Traffic Sources and Optimizing the Bids
+## Analyzing Website Traffic Sources and Optimizing the Bids
 
-#### 1. Ask:- CEO Cindy Sharp wants to see the site traffic breakdown by UTM Source, Campaign, and Referring Domain.
+### 1. Ask:- CEO Cindy Sharp wants to see the site traffic breakdown by UTM Source, Campaign, and Referring Domain.
 
 Query:
 
