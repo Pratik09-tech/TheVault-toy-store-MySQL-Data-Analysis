@@ -26,9 +26,9 @@ and optimize bids based on performance.
 
 ## Business Problems and Solutions
 
-# Analyzing Website Traffic Sources and Optimizing the Bids
+### Analyzing Website Traffic Sources and Optimizing the Bids
 
-# 1. Ask:- CEO Cindy Sharp wants to see the site traffic breakdown by UTM Source, Campaign, and Referring Domain.
+### 1. Ask:- CEO Cindy Sharp wants to see the site traffic breakdown by UTM Source, Campaign, and Referring Domain.
 
 Query:
 
