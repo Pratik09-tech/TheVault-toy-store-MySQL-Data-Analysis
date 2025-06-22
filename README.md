@@ -48,3 +48,6 @@ Query Result:
 ![image](https://github.com/user-attachments/assets/2250906e-158d-4b65-a48f-f85bdf55b6ef)
 
 ▪️Findings:- The primary traffic source is "gsearch nonbrand" with 282,706 sessions, indicating a strong reliance on this channel for website traffic.
+
+
+### 1. Ask:- Marketing Di
