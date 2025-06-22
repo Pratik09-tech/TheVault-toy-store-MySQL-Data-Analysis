@@ -24,4 +24,26 @@ and optimize bids based on performance.
 
 ▪️Repeat Behavior Analysis: Repeat visits help us understand user behavior and identify some of our most valuable customers.
 
-# Business Problems and Solutions
+## Business Problems and Solutions
+
+# Analyzing Website Traffic Sources and Optimizing the Bids
+
+# 1. Ask:- CEO Cindy Sharp wants to see the site traffic breakdown by UTM Source, Campaign, and Referring Domain.
+
+Query:
+
+    SELECT
+	      utm_source,
+        utm_campaign,
+        http_referer,
+        COUNT(DISTINCT website_session_id) AS sessions
+    FROM website_sessions
+    WHERE created_at < '2012-04-12'
+    GROUP BY 1,2,3
+    ORDER BY 4 DESC;
+
+Query Result:
+
+![image](https://github.com/user-attachments/assets/2250906e-158d-4b65-a48f-f85bdf55b6ef)
+
+▪️Findings:- The primary traffic source is "gsearch nonbrand" with 282,706 sessions, indicating a strong reliance on this channel for website traffic.
